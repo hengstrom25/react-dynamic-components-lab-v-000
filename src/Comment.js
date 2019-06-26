@@ -6,8 +6,9 @@ class Comment extends Component {
   }
     
     render() {
-      
- 
+        
+      <div className="comment">
+      </div>
     }
   
   
