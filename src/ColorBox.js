@@ -1,7 +1,6 @@
-import { Component } from 'react'
+import React, { Component } from 'react';
 
-class ColorBox extends Component {
-  
+export default class ColorBox extends Component {
   
   render() {
 		const opac = this.props.opacity
@@ -15,7 +14,7 @@ class ColorBox extends Component {
       } else {
       	return null;
       }
+    
+  	}
   
 }
-
-export default ColorBox
