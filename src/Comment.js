@@ -7,7 +7,7 @@ class Comment extends Component {
     
     render() {
       
-      return
+ 
     }
   
   
