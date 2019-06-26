@@ -1,8 +1,9 @@
-import React, { Component } from 'react', 
+import React, { Component } from 'react'; 
 
 class Comment extends Component {
-  constructor(props)
+  constructor(props) {
     super(props)
+  }
     
     render() {
       
